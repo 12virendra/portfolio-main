@@ -17,7 +17,7 @@ const About = () => {
                       <p>Hi, I'm Virendra , nice to meet you. Please take a look around.</p>
                   </div>
                   <div className="max-lg:text-[19px]">
-                      <p>I am a passionate and dedicated front-end developer with a strong foundation in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, and React. Over the past few years, I have honed my skills by building and deploying various web projects, ranging from dynamic single-page applications to full-fledged e-commerce platforms. Some of my notable projects include an Amazon clone, a Netflix clone, and a Spotify clone, as well as interactive mini-games like Tic Tac Toe, Rock Paper Scissors, and a Car Game.</p>
+                      <p>I am a passionate and dedicated Full-Stack developer with a strong foundation in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, Node js and have knowledge of database like Mongo db and SQL. Over the past few years, I have honed my skills by building and deploying various web projects, ranging from dynamic single-page applications to full-fledged e-commerce platforms. Some of my notable projects include an Amazon clone, a Netflix clone, and a Spotify clone, as well as interactive mini-games like Tic Tac Toe, Rock Paper Scissors, and a Car Game.</p>
                   </div>
                 </div>    
              </div>    
