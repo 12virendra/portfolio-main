@@ -6,6 +6,8 @@ import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Tailwind from '../assets/tailwind.png';
 import GitHub from '../assets/github.png';
+import mongo from '../assets/mongo.png';
+import node from '../assets/node.png';
 
 
 
@@ -43,6 +45,17 @@ const Skills = () => {
                   <div className='shadow-md shadow-[#f582ff] hover:scale-110 duration-500'>
                       <img className='w-20 mx-auto' src={GitHub} alt="GitHub" />
                   <p>GitHub</p>
+                  </div>
+
+                  <div className='shadow-md shadow-[#f582ff] hover:scale-110 duration-500'>
+                      <img className='w-20 mx-auto' src={mongo} alt="GitHub" />
+                  <p>Mongo DB</p>
+                  </div>
+
+
+                  <div className='shadow-md shadow-[#f582ff] hover:scale-110 duration-500'>
+                      <img className='w-20 mx-auto' src={node} alt="GitHub" />
+                  <p>NOde js</p>
                   </div>
               </div>
           </div>
