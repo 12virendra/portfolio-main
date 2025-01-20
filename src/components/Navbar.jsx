@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import Logo from '../assets/logo1.png';
@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[48px] flex justify-between items-center px-4 bg-[#25559e] text-gray-100">
           <div>
-              <img  src={Logo} alt="logo image" style={{width:'50px' }} />
+              <img  src={Logo} alt="logo" style={{width:'50px' }} />
           </div>
           {/* menu */}
               <ul className=' hidden md:flex  text-[20px]'>
