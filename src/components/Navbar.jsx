@@ -138,34 +138,6 @@ const Navbar = () => {
         </ul>
       </div>
 
-{/* More icons */}
-
-{/* <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
-          <li className='w-[30px] h-[30px] flex justify-between items-center ml-[-150px]  duration-300 bg-blue-600'>
-            <a className='flex justify-between items-center w-full text-gray-300 '
-              href="https://www.linkedin.com/in/virendra-kaira-a070332bb/">
-              <FaLinkedin size={20} />
-            </a>
-          </li>
-          <li className='w-[30px] h-[30px] flex justify-between items-center ml-[50px]  duration-300 bg-[#333333]'>
-            <a className='flex justify-between items-center w-full text-gray-300 '
-              href="https://github.com/12virendra">
-              <FaGithub size={20} />
-            </a>
-          </li>
-          <li className='w-[30px] h-[30px] flex justify-between items-center ml-[50px]  duration-300 bg-orange-600'>
-            <a className='flex justify-between items-center w-full text-gray-300 '
-              href="mailto:virendrakaira60@gmail.com ">
-              < HiOutlineMail size={20} />
-            </a>
-          </li>
-          <li className='w-[30px] h-[30px] flex justify-between items-center ml-[50px]  duration-300 bg-[#24557e]'>
-            <a className='flex justify-between items-center w-full text-gray-300 '
-              href="https://www.canva.com/design/DAGPnArTNQY/x5O--3KXyhF_Haa3vqSaPw/edit?utm_content=DAGPnArTNQY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-              < BsFillPersonLinesFill size={20} />
-            </a>
-          </li>
-        </ul> */}
 
 
     </div>
