@@ -15,7 +15,7 @@ const Hero = () => {
        
       <h2 className='text-2xl sm:text-4xl font-bold text-[#8892b0] w-[407px] max-sm:w-[271px]'>I'm a FullStack Developer</h2>
        
-        <p className='text-[#8892b0] py-4 max-w-[700px] text-2xl sm:text-3xl'>I'm a Full-Stack developer skilled in HTML, CSS, JavaScript, Bootstrap, Tailwind, React JS and Node js  i am adept at creating visually appealing and responsive user interfaces.  </p>
+        <p className='text-[#8892b0] py-4 max-w-[700px] text-2xl sm:text-3xl'>I'm a Full-Stack developer skilled in HTML, CSS, JavaScript, Bootstrap, Tailwind, React JS Node js and MongoDB  i am adept at creating visually appealing and responsive user interfaces.  </p>
          <div>
 
 <Link to="work" smooth={true} duration={500} >
