@@ -13,9 +13,9 @@ const Hero = () => {
       <p className='text-pink-600 text-2xl w-[148px] shadow-sm shadow-pink-400'>Hi,my name is </p>
         <h1 className='text-2xl sm:text-5xl font-bold text-[#ccd6f6] w-[319px] max-sm:w-[204px] shadow-sm shadow-white '>Virendra Kaira</h1>
        
-      <h2 className='text-2xl sm:text-4xl font-bold text-[#8892b0] w-[407px] max-sm:w-[271px]'>I'm a FullStack Developer</h2>
+      <h2 className='text-2xl sm:text-4xl font-bold text-[#8892b0] w-[407px] max-sm:w-[271px]'>I'm a MERN-Stack Developer</h2>
        
-        <p className='text-[#8892b0] py-4 max-w-[700px] text-2xl sm:text-3xl'>I'm a Full-Stack developer skilled in HTML, CSS, JavaScript, Bootstrap, Tailwind, React JS Node js and MongoDB  i am adept at creating visually appealing and responsive user interfaces.  </p>
+        <p className='text-[#8892b0] py-4 max-w-[700px] text-2xl sm:text-3xl'>I'm a MERN-Stack developer skilled in HTML, CSS, JavaScript, Bootstrap, Tailwind, React JS, Node js, Express js and MongoDB  i am adept at creating visually appealing and responsive user interfaces.  </p>
          <div>
 
 <Link to="work" smooth={true} duration={500} >
